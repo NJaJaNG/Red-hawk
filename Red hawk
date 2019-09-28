@@ -1,0 +1,6 @@
+git clone https://github.com/NJaJaNG/RED_HAWK
+ls
+cd RED_HAWK
+php RED_HAWK.php
+cd /data/data/com.termux/files/home/RED_HAWK/
+php /data/data/com.termux/files/home/RED_HAWK/ RED_HAWK.php
